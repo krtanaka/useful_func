@@ -1,0 +1,15 @@
+betaf = function(vec){
+  
+  n = length(vec)
+  
+  beta = lm(vec ~ seq(1:n))$coef[2] #this is for 1982-2011
+  
+  # p = summary(lm(vec ~ seq(1:36)))$ coefficients [2,4]
+  return(beta) # beta gives you a slope, if you want p-value, change it to p
+  #   return(p) # beta gives you a slope, if you want p-value, change it to p
+  
+}
+
+res = as.data.frame(apply(change[, 3:length(names(change))], 1, betaf)) 
+change = cbind(change[,1:2], res)
+colnames(change)[3] = "p"
