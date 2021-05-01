@@ -13,3 +13,14 @@ betaf = function(vec){
 res = as.data.frame(apply(change[, 3:length(names(change))], 1, betaf)) 
 change = cbind(change[,1:2], res)
 colnames(change)[3] = "p"
+
+
+  scientific <- function(x){
+    
+    library(ggplot2)
+    library(scales)
+    library(ggthemes)
+    
+    ifelse(x == 0, "0", parse(text = gsub("[+]", "", gsub("e", " %*% 10^", scientific_format()(x)))))
+  
+  }
