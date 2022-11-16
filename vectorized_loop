@@ -1,0 +1,19 @@
+vector_list = vector("list")
+
+for (d in 1:length(daily_list) {
+  
+  d = 1
+  
+  df = read_csv(paste0("G:/GFW/mmsi-daily-csvs-10-v2-2020/", daily_list[1]))
+  
+  df$cell_ll_lon = ifelse()
+  
+  
+  
+  df_i = GWSlength_wide[,c(1:3, i)]
+  colnames(df_i) = c("year", "unique_ID", "date", "length_m")
+  kyle_vector_list[[i]] = df_i
+  print(i)
+}
+
+vector_list = rbindlist(vector_list)
