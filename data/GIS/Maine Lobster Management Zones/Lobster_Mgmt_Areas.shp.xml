@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<idinfo>
+<citation>
+<citeinfo>
+<onlink Sync="TRUE"></onlink>
+</citeinfo>
+</citation>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntper>Kathleen Reardon</cntper>
+<cntorg>Maine Department of Marine Resources</cntorg>
+</cntperp>
+<cntpos>GIS Manager</cntpos>
+<cntaddr>
+<addrtype>mailing address</addrtype>
+<address>PO Box 8</address>
+<city>West Boothbay Harbor</city>
+<state>ME</state>
+<postal>04575-0008</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(207) 633-9404</cntvoice>
+<cntfax>(207) 633-9579</cntfax>
+<cntemail>kathleen.reardon@maine.gov</cntemail>
+<hours>Monday-Friday, 8am-5pm, Eastern Standard Time</hours>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc Sync="TRUE">Dataset moved.</procdesc>
+<srcused Sync="TRUE">H:\Offshore_Winds\Maine_DMR\Lobster_Mgmt_Area1.dwg</srcused>
+<time Sync="TRUE">22131000</time>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Dataset copied.</procdesc>
+<srcused Sync="TRUE"></srcused>
+<time Sync="TRUE">13482100</time>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<ptvctinf></ptvctinf>
+</spdoinfo>
+<eainfo>
+<detailed Name="Lobster_Mgmt_Area1">
+<enttyp>
+<enttypl Sync="TRUE">Lobster_Mgmt_Area1</enttypl>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs Sync="TRUE">Esri</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs Sync="TRUE">Esri</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FID_</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Entity</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Handle</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Layer</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LyrFrzn</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LyrLock</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LyrOn</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LyrVPFrzn</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LyrHandle</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Color</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">EntColor</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LyrColor</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">BlkColor</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Linetype</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">EntLinetyp</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LyrLnType</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">BlkLinetyp</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Elevation</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Thickness</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LineWt</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">EntLineWt</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LyrLineWt</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">BlkLineWt</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">RefName</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LTScale</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ExtX</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ExtY</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ExtZ</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DocName</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DocPath</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DocType</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DocVer</attrlabl>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Section</attrlabl>
+</attr>
+</detailed>
+</eainfo>
+<lineage></lineage>
+</metadata>
